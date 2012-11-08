@@ -1,2 +1,3 @@
 lisautocreateobject
 ===================
+eZ Publish Extension
